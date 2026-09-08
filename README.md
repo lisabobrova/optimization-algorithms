@@ -22,3 +22,4 @@ The methods are tested on numerical problems of increasing dimension, with exper
 ## Context
 
 This project was completed as part of university coursework in optimization.
+
